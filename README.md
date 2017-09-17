@@ -1,3 +1,7 @@
 # synology_dlm_tfreeca
 Synology Download Station Tfreeca Custom-made BT 검색.
-- 설정
+- 적용설정
+  Download Station --> 설정 --> BT 검색 --> 추가
+  
+  
+  
