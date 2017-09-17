@@ -1,0 +1,10 @@
+{
+"name": "TfreecaMovie",
+"displayname": "Tfreeca Movie",
+"description": "tfreeca22.com Movie",
+"version": "1.0",
+"site": "http://www.tfreeca22.com",
+"module": "search.php",
+"type": "search",
+"class": "SynoDLMSearchTfreecaMovie"
+}
