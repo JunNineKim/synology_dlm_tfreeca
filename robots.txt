@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://JunNineKim.github.io/synology_dlm_tfreeca/sitemap.xml
